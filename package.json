@@ -16,15 +16,18 @@
     "serve-static": "^1.13.2",
     "vue-template-compiler": "^2.6.4",
     "serialize-javascript": ">=2.1.1",
-    "set-value": ">=2.0.1"
+    "set-value": ">=2.0.1",
+    "acorn": ">=5.7.4",
+    "minimist": ">=1.2.3",
+    "kind-of": ">=6.0.3"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.4.0",
-    "@vue/cli-plugin-eslint": "^3.4.0",
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-plugin-babel": "^4.4.1",
+    "@vue/cli-plugin-eslint": "^4.4.1",
+    "@vue/cli-service": "^4.4.1",
     "babel-eslint": "^10.0.1",
-    "eslint": "^5.13.0",
-    "eslint-plugin-vue": "^5.1.0",
+    "eslint": "^7.1.0",
+    "eslint-plugin-vue": "^5.2.3",
     "serialize-javascript": ">=2.1.1",
     "set-value": ">=2.0.1"
   },
