@@ -29,7 +29,8 @@
     "eslint": "^7.1.0",
     "eslint-plugin-vue": "^5.2.3",
     "serialize-javascript": ">=2.1.1",
-    "set-value": ">=2.0.1"
+    "set-value": ">=2.0.1",
+    "kind-of": ">=6.0.3"
   },
   "eslintConfig": {
     "root": true,
