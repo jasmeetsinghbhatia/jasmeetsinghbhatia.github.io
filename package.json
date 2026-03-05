@@ -15,7 +15,7 @@
     "express": "^4.22.1",
     "serve-static": "^2.1.0",
     "vue-template-compiler": "^2.6.4",
-    "serialize-javascript": ">=3.1.0",
+    "serialize-javascript": ">=7.0.3",
     "set-value": ">=4.0.1",
     "acorn": ">=5.7.4",
     "minimist": ">=1.2.6",
@@ -28,7 +28,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^9.39.1",
     "eslint-plugin-vue": "^5.2.3",
-    "serialize-javascript": ">=3.1.0",
+    "serialize-javascript": ">=7.0.3",
     "set-value": ">=4.0.1",
     "kind-of": ">=6.0.3"
   },
